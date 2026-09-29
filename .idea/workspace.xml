@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d161199c-9793-428b-ad29-74987f85743a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/portfolio-website.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hero-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/momel-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/wave3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000001747" />
+      <entry key="S10" value="1.0000017903992888" />
+      <entry key="S30" value="1.027424478434771" />
+      <entry key="S60" value="1.346459360854144" />
+      <entry key="M2" value="2.315623176712402" />
+      <entry key="M5" value="4.476241844659135" />
+      <entry key="M10" value="6.853735436219727" />
+      <entry key="M15" value="9.003007091247152" />
+      <entry key="M30" value="14.934934188769585" />
+      <entry key="H1" value="23.087302697124976" />
+      <entry key="H2" value="30.896997273737426" />
+      <entry key="H4" value="36.56360362757998" />
+      <entry key="D1" value="42.65549991162006" />
+      <entry key="W1" value="45.89802478724135" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="9.877028647775029E-138" />
+      <entry key="S5" value="1.5770683839405119E-55" />
+      <entry key="S10" value="3.9712320304186506E-28" />
+      <entry key="S30" value="7.350965581895493E-10" />
+      <entry key="S60" value="2.7358773351384367E-5" />
+      <entry key="M2" value="0.005730025666815594" />
+      <entry key="M5" value="0.1907720837419257" />
+      <entry key="M10" value="0.7704176190868409" />
+      <entry key="M15" value="1.2937418958119922" />
+      <entry key="M30" value="2.276320501581054" />
+      <entry key="H1" value="3.1784458916639458" />
+      <entry key="H2" value="3.895251997289766" />
+      <entry key="H4" value="4.381550256788819" />
+      <entry key="D1" value="4.896640673342217" />
+      <entry key="W1" value="5.508454326695896" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.10732067955471923" />
+      <entry key="MS500" value="0.6399362069221539" />
+      <entry key="S2" value="0.8944049017826057" />
+      <entry key="S5" value="0.956342966759448" />
+      <entry key="S10" value="0.9779296223990713" />
+      <entry key="S30" value="1.0197199855978842" />
+      <entry key="S60" value="1.3410063501502016" />
+      <entry key="M2" value="2.316208588796845" />
+      <entry key="M5" value="4.662268749317302" />
+      <entry key="M10" value="7.61926156318635" />
+      <entry key="M15" value="10.291644351778242" />
+      <entry key="M30" value="17.205268385855728" />
+      <entry key="H1" value="26.25920870548634" />
+      <entry key="H2" value="34.7868346079735" />
+      <entry key="H4" value="40.94157865106049" />
+      <entry key="D1" value="47.551380032405525" />
+      <entry key="W1" value="51.40636328371019" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JZmwbEDyhmtiEkIXvdzSVPRfGt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/proj/portfolio-website/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\proj\portfolio-website\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\proj\portfolio-website\css" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d161199c-9793-428b-ad29-74987f85743a" name="Changes" comment="" />
+      <created>1789877204341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789877204341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
