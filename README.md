@@ -42,7 +42,7 @@ momel-dev-portfolio/
 │   └── style.css
 ├── images/
 │   ├── hero-background.png
-│   └── waves.svg
+│   └── wave3.svg
 └── README.md
 ```
 
